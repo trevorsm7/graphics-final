@@ -1,3 +1,5 @@
 .DS_Store
 .idea
 build/
+deploy/angel2.obj
+deploy/final*

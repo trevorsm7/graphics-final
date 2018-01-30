@@ -15,6 +15,8 @@ This is a final project I built for a graphics course. Explore a procedurally ge
 
 ## Building
 
+*NOTE* unzip the model in deploy/angel2.obj.7z; it was too large to include in the repo.
+
 GLFW3 is required. A binary for macOS is included in the repo.
 
 The CMake was only tested macOS. The libraries may need to be modified on other platforms.
